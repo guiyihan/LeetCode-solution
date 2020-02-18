@@ -1,17 +1,11 @@
 class Solution:
-
-    def permute(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[List[int]]
-        """
-        nums.reverse()
-
+    def permute(self, nums: List[int]) -> List[List[int]]:
+        nums=set(nums)
         def recursion1(nums):
             if nums == None:
                 return []
             if len(nums) == 1:
-                return [nums]
+                return [list(nums)]
             result = []
             for n in nums:
                 next=nums.copy()
