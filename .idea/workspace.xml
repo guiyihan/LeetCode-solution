@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="469ddb9d-f7ee-4aa2-907e-e429dd195f64" name="Default Changelist" comment="" />
+    <list default="true" id="469ddb9d-f7ee-4aa2-907e-e429dd195f64" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.21.1" />
+      </map>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,17 +55,45 @@
       <option name="presentableId" value="Default" />
       <updated>1583054526971</updated>
       <workItem from="1583054529355" duration="673000" />
+      <workItem from="1588935402056" duration="976000" />
     </task>
+    <task id="LOCAL-00001" summary="updated by idea">
+      <created>1588935621271</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588935621271</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated by idea">
+      <created>1588935758655</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588935758655</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated by idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated by idea" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="331" y="80" key="CommitChangelistDialog2" timestamp="1588935757457">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="331" y="80" key="CommitChangelistDialog2/0.0.1504.963@0.0.1504.963" timestamp="1588935757457" />
     <state x="533" y="240" key="FileChooserDialogImpl" timestamp="1583054583743">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="533" y="240" key="FileChooserDialogImpl/0.0.1504.963@0.0.1504.963" timestamp="1583054583743" />
+    <state x="475" y="207" key="RollbackChangesDialog" timestamp="1588935619955">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="475" y="207" key="RollbackChangesDialog/0.0.1504.963@0.0.1504.963" timestamp="1588935619955" />
     <state x="551" y="400" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588935566162">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
